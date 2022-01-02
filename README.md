@@ -5,8 +5,8 @@ Full Stack Developer
 - 🔭 I am currently looking for my first job as a developer.
 
 - 📫 How to reach me:
--      Linkedin: linkedin.com/in/lucas-aramberry-5310a621a
--      Mail: aramberrylucas@gmail.com
+  -  Linkedin: linkedin.com/in/lucas-aramberry-5310a621a
+  -  Mail: aramberrylucas@gmail.com
       
 - ⚡ I have knowledge in: JAVA, SPRING, THYMELEAF, MYSQL, HTML, CSS, BOOTSTRAP, GIT/GITHUB
 <!--
