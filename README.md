@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 Actualmente estoy en busca de mi primer empleo.
+
+- 📫 How to reach me: 
+    Linkedin: linkedin.com/in/lucas-aramberry-5310a621a
+    Mail: aramberrylucas@gmail.com
 <!--
 **LucasAramberry/LucasAramberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
