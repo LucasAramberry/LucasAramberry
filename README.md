@@ -6,10 +6,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-aramberry-5310a621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas aramberry" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-aramberry-5310a621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas aramberry" title="Linkedin" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" alt="aramberrylucas@gmail.com" height="25" width="42" /></a>
+<a href="#" target="blank"><img align="center" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" alt="aramberrylucas@gmail.com" title="Gmail" height="25" width="42" /></a>
 aramberrylucas@gmail.com
 </p>
 
