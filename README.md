@@ -35,10 +35,14 @@ Full Stack Developer
 <p align="left">
 <a href="https://www.linkedin.com/in/lucas-aramberry-5310a621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas aramberry" height="30" width="40" /></a>
 </p>
+  <a target="blank"><img align="center" src="https://br.atsit.in/es/wp-content/uploads/2021/09/los-usuarios-de-gmail-estan-descontentos-con-los-iconos-de-color-azul-en-los-mensajes-importantes-despues-de-la-ultima-actualizacion.jpg" alt="aramberrylucas@gmail.com" height="35" width="35" /><p>aramberrylucas@gmail.com</p></a>
+  
+
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   
   <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> 
   <img src="https://programandoointentandolo.com/wordpress/wp-content/uploads/2019/02/thymeleaf.png" alt="thymeleaf" width="40" height="40"/> </a> 
@@ -55,12 +59,8 @@ Full Stack Developer
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 <!--
 **LucasAramberry/LucasAramberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
