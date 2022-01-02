@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi, I'm Lucas 👋
 
-- 🔭 Actualmente estoy en busca de mi primer empleo.
+Full Stack Developer
 
-- 📫 How to reach me: 
-    Linkedin: linkedin.com/in/lucas-aramberry-5310a621a
-    Mail: aramberrylucas@gmail.com
+- 🔭 I am currently looking for my first job as a developer.
+
+- 📫 How to reach me:
+-      Linkedin: linkedin.com/in/lucas-aramberry-5310a621a
+-      Mail: aramberrylucas@gmail.com
+      
+- ⚡ I have knowledge in: JAVA, SPRING, THYMELEAF, MYSQL, HTML, CSS, BOOTSTRAP, GIT/GITHUB
 <!--
 **LucasAramberry/LucasAramberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
