@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Aramberry</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
-- 🔭 I am currently looking for my first job as a developer.
 - 👨‍💻 All of my projects are available here.
 
 <h3 align="left">Connect with me:</h3>
