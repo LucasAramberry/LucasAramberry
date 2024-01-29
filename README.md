@@ -45,6 +45,10 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" title="Spring Framework" width="40" height="40"/>
   </a> 
+
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://i0.wp.com/www.duomimikry.de/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  </a>
   
 </p>
 <!--
