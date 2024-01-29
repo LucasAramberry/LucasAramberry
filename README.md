@@ -5,14 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/lucas-aramberry-5310a621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas aramberry" title="Linkedin" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/lucas-aramberry-5310a621a/" target="blank" style="padding: 0,5rem"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas aramberry" title="Linkedin" width="40" /> Linkedin </a>
 
-<p align="left">
-<a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="aramberrylucas@gmail.com" title="Gmail" width="45" /></a>
-aramberrylucas@gmail.com
-</p>
+<a href="mailto:aramberrylucas@gmail.com?subject=Contacto&body=Hola%20Lucas,%0D%0A%0D%0A" target="blank" style="padding: 0,5rem"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="aramberrylucas@gmail.com" title="Gmail" width="45" />aramberrylucas@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
