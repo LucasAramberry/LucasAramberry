@@ -5,10 +5,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-aramberry-5310a621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas aramberry" title="Linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-aramberry-5310a621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas aramberry" title="Linkedin" width="40" /></a>
 </p>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="[https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw27Ks9XbubLBh5vyOioyKVD&ust=1706647825469000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIicj9u8g4QDFQAAAAAdAAAAABAE)" alt="aramberrylucas@gmail.com" title="Gmail" width="42" /></a>
+<a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="aramberrylucas@gmail.com" title="Gmail" width="50" /></a>
 aramberrylucas@gmail.com
 </p>
 
