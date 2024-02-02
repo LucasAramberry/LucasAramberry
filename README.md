@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/http://www.lucasaramberry.website/" target="blank"><img align="center" src="http://lucasaramberry.website/assets/png/my-icon.png" alt="http://www.lucasaramberry.website/" height="30" width="40" /></a>
+<a href="https://dev.to/http://www.lucasaramberry.website/" target="blank"><img align="center" src="http://lucasaramberry.website/assets/png/Lucas-removebg.png" alt="http://www.lucasaramberry.website/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-aramberry-5310a621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-aramberry-5310a621a/" height="30" width="40" /></a>
 </p>
 
