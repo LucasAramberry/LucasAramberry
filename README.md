@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lucas Aramberry</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Argentina</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/http://www.lucasaramberry.website/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="http://www.lucasaramberry.website/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-aramberry-5310a621a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-aramberry-5310a621a/" height="30" width="40" /></a>
+</p>
+
 - 👨‍💻 All of my projects are available here.
 
 <h3 align="left">Connect with me:</h3>
