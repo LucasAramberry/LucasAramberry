@@ -5,10 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://www.lucasaramberry.website" target="blank"> WebSite </a>
-
+<a href="http://www.lucasaramberry.website" target="blank"> Website </a>
 <a href="https://www.linkedin.com/in/lucas-aramberry/" target="blank"> Linkedin </a>
-
 <a href="mailto:aramberrylucas@gmail.com?subject=Contacto&body=Hola%20Lucas,%0D%0A%0D%0A" target="blank"> aramberrylucas@gmail.com </a>
 </p>
 
