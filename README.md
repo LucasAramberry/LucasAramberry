@@ -27,7 +27,7 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://lucasaramberry.vercel.app" style="display: inline-block;"><img src="https://img.shields.io/badge/WEBSITE%20-grey?style=for-the-badge" alt="website" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/lucas-aramberry" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/lucasaramberry_dev" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a target="_blank" href="https://www.instagram.com/la.software.solutions" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="mailto:aramberrylucas@gmail.com?subject=Contacto&body=Hola%20Lucas,%0D%0A%0D%0A" style="display: inline-block;"><img src="https://img.shields.io/badge/GMAIL-grey?style=for-the-badge&logo=gmail" alt="gmail" /></a></p>
 
 
